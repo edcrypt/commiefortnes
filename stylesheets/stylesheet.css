@@ -287,7 +287,7 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #B52A1D !important;
+  background: #B52A1D;
   background: -moz-linear-gradient(top, #B52A1D, #212121) !important;
   background: -webkit-linear-gradient(top, #B52A1D, #212121) !important;
   background: -ms-linear-gradient(top, #B52A1D, #212121) !important;
